@@ -1,0 +1,2 @@
+#this is a c++ radomizer that dosn't use the built in Random Function I will be updateing it perodicly so come back often to check for updates
+#### this program uses long float ( and long longs ) so it will use more memory then the built-in random function only use this if you need to have a pre deturmanded seed (or a max)
